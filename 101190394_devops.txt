@@ -1,4 +1,6 @@
 DevOps is a set of practices that works to automate and integrate the processes between software development and IT teams, so they can build, test, and release software faster and more reliably. The term DevOps was formed by combining the words “development” and “operations” and signifies a cultural shift that bridges the gap between development and operation teams, which historically functioned in siloes. 
 
 
-Teams that adopt DevOps culture, practices and tools become high-performing, building better products faster for greater customer satisfaction. This improved collaboration and productivity is also integral to achieving business goals like these:
+Teams that adopt DevOps culture, practices and tools become high-performing, building better products faster for greater customer satisfaction. 
+
+DevOps influences the application lifecycle throughout its plan, develop, deliver and operate phases. Each phase relies on the others, and the phases are not role-specific. In a true DevOps culture, each role is involved in each phase to some extent.
