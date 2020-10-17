@@ -1,3 +1,4 @@
 It is important in the software development industry
 for all developers to learn about DevOps in the
 software development cycle (also known as SDLC).
+This is because the DevOps engineers main tasks are
