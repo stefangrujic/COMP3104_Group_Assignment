@@ -1,0 +1,5 @@
+COMP3104 DevOps course talks about Version Control systems and the
+general knowledge and understanding that comes with DevOps such as 
+Git, GitHub, Travis CI and other technologies. Other concepts include
+Continuous Integration/Continuous Delivery (CI/CD), Gradle, Maven,
+Single-Page apps (SPA), Jira, and Jenkins.
